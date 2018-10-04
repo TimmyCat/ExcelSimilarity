@@ -1,0 +1,14 @@
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\bin\Debug\ExcelSimilarity.exe.config
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\bin\Debug\ExcelSimilarity.exe
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\bin\Debug\ExcelSimilarity.pdb
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\MainWindow.g.cs
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\App.g.cs
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity_MarkupCompile.cache
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity_MarkupCompile.lref
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\MainWindow.baml
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity.g.resources
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity.Properties.Resources.resources
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity.csproj.GenerateResource.cache
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity.csproj.CoreCompileInputs.cache
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity.exe
+C:\Users\xdbyr\OneDrive\Рабочий стол\ExcelSimilarity\ExcelSimilarity\obj\Debug\ExcelSimilarity.pdb

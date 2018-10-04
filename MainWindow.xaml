@@ -1,0 +1,39 @@
+﻿<Window x:Class="ExcelSimilarity.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExcelSimilarity"
+        mc:Ignorable="d"
+        Title="Excel" Height="450" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.4*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Content="Column count: "/>
+            <TextBox Grid.Row="0" Grid.Column="1" Margin="3" Width="50" Height="25" HorizontalAlignment="Left"
+                     Text="{Binding ColumnCount}"/>
+            <Label Grid.Row="1" Grid.Column="0" Content="Row count: "/>
+            <TextBox Grid.Row="1" Grid.Column="1" Margin="3" Width="50" Height="25" HorizontalAlignment="Left"
+                     Text="{Binding RowCount}"/>
+            <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Width="150" Margin="3" Content="Generate DataGrid"
+                    Command="{Binding GenerateCommand}"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <DataGrid x:Name="maDataGrid" >
+
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>
